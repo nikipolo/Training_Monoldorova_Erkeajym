@@ -1,0 +1,14 @@
+# PyCharm
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Python
+__pycache__/
+
+# PyTest
+.pytest_cache/
+
+# Environment 
+environment/
